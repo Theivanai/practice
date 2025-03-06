@@ -1,0 +1,105 @@
+export const courses = [{
+    id: 1,
+    title: "React",
+    description: "web development",
+    url: "https://miro.medium.com/v2/resize:fit:1200/1*WA_9JsyqFkge2HwYKcdJQw.png",
+},
+{
+    id: 2,
+    title: "Python",
+    description: "web development",
+    url: "https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1",
+},
+{
+    id: 3,
+    title: "Node-js",
+    description: "web development",
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMTafBeJ-VJ9hVJbIxAjprXT7wvwGbIVQpA&s",
+},
+{
+    id: 4,
+    title: "Mongo DB",
+    description: "web development",
+    url: "https://astconsulting.in/wp-content/uploads/2023/08/MongoDB-sm-logo-500x400-1-1.gif",
+},
+{
+    id: 4,
+    title: "Mongo DB",
+    description: "web development",
+    url: "https://astconsulting.in/wp-content/uploads/2023/08/MongoDB-sm-logo-500x400-1-1.gif",
+},
+{
+    id: 5,
+    title: "HTML",
+    description: "web development",
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png",
+},
+{
+    id: 6,
+    title: "CSS",
+    description: "web development",
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkMYb955fj7IRiw-8g6gmn5GoZzKni1Kv8g&s",
+},
+{
+    id: 7,
+    title: "Javascript",
+    description: "web development",
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png",
+},
+{
+    id: 8,
+    title: "MS-SQL",
+    description: "web development",
+    url: "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x.png",
+},
+];
+
+export const playlists = [{
+    id: 1,
+    title: "React",
+    description: "web development",
+    url: "https://miro.medium.com/v2/resize:fit:1200/1*WA_9JsyqFkge2HwYKcdJQw.png",
+},
+{
+    id: 2,
+    title: "Python",
+    description: "web development",
+    url: "https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1",
+},
+{
+    id: 3,
+    title: "Node-js",
+    description: "web development",
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMTafBeJ-VJ9hVJbIxAjprXT7wvwGbIVQpA&s",
+},
+{
+    id: 4,
+    title: "Mongo DB",
+    description: "web development",
+    url: "https://astconsulting.in/wp-content/uploads/2023/08/MongoDB-sm-logo-500x400-1-1.gif",
+},
+{
+    id: 5,
+    title: "HTML",
+    description: "web development",
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png",
+},
+{
+    id: 6,
+    title: "CSS",
+    description: "web development",
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkMYb955fj7IRiw-8g6gmn5GoZzKni1Kv8g&s",
+},
+{
+    id: 7,
+    title: "Javascript",
+    description: "web development",
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png",
+},
+{
+    id: 8,
+    title: "MS-SQL",
+    description: "web development",
+    url: "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x.png",
+},
+];
